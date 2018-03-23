@@ -2,7 +2,7 @@
    "name":"ASP.NET Core MySQL Website",
    "description":"ASP.NET Core MySQL website",
    "website":"http://www.softtrends.com/",
-   "repository":"https://github.com/heroku-softtrends/dotnetcore.mysql.sample",
+   "repository":"https://github.com/heroku-softtrends/heroku.sample.dotnetcore2.mysql",
    "logo":"https://avatars2.githubusercontent.com/u/20908829?v=3&s=150",
    "keywords":[
       "aspnet core",
@@ -10,7 +10,7 @@
    ],
    "buildpacks":[
       {
-         "url":"https://github.com/heroku-softtrends/dotnetcore.mysql.buildpack.git"
+         "url":"https://github.com/heroku-softtrends/heroku.buildpack.dotnetcore2.mysql.git"
       }
    ]
 }
